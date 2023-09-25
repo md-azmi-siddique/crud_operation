@@ -1,0 +1,13 @@
+h1{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#inputBox{
+    margin-top: 50px;
+    font-size: 20px;
+}
+.form-control{
+    margin-left: 20px;
+    border-color: black;
+}
