@@ -1,2 +1,2 @@
 #CRUD OPERATION:
- Link: https://md-azmi-siddique.github.io/crud_operation/
+Link: https://md-azmi-siddique.github.io/crud_operation/
