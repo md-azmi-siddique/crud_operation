@@ -9,7 +9,7 @@ function getInput(name, age, gender) {
     var userName = document.getElementById(name).value;
     var userAge = document.getElementById(age).value;
     if(isNaN(userAge)){
-        alert("Please input neumeric value as input");
+        alert("Please enter valid age");
     }
     else{
         document.getElementById("ageFill").innerText = userAge;
