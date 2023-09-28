@@ -3,6 +3,7 @@ let btn = document.getElementById('submit');
 btn.addEventListener('click', function(){
     console.log('submit button hit'); //debugger
     getInput("name", "age", "gender");
+  
 })
 
 function getInput(name, age, gender) {
@@ -36,3 +37,4 @@ function deleteInput(name, age, gender) {
     document.getElementById(age).innerText = "";
     document.getElementById(gender).innerText = "";
 }
+
